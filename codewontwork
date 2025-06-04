@@ -1,0 +1,759 @@
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon:ital@0;1&display=swap" rel="stylesheet">
+</head>
+
+<style>
+.im-fell-french-canon-regular {
+  font-family: "IM Fell French Canon", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.im-fell-french-canon-regular-italic {
+  font-family: "IM Fell French Canon", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+</style>
+<style>
+
+p{
+font-family: 'IM fell french Canon', sans-serif;
+font-size: 130%;
+}
+h1,h2,h3,h4,h5{
+font-family: 'im fell french canon', sans-serif;
+font-size: 190%;
+</style>
+
+<BACKGROUND_MAIN>
+<style>
+body{
+
+
+background-image: url(https://file.garden/Zl0NtAzAvyz0wM5S/graphic.jpg)!important;
+background-attachment: FIXED !important;
+background-repeat: REPEAT !important;
+background-position: CENTER !important;
+
+}
+</style>
+
+<BACKGROUND_PROFILE>
+<style>
+main{
+
+background-color: rgba(0,0, 0, .00) !important;
+background-image: url(https://file.garden/Zl0NtAzAvyz0wM5S/vertstripe.jpg) !important;
+background-attachment:SCROLL !important;
+background-repeat: REPEAT !important;
+background-position: CENTER !important;
+
+}
+</style>
+
+<BACKGROUND_TOP>
+<style>
+.top{
+
+
+background-image: url(https://file.garden/Zl0NtAzAvyz0wM5S/dots.jpg) !important;
+background-attachment: FIXED !important;
+background-repeat: REPEAT !important;
+background-position: CENTER !important;
+}
+</style>
+<NAV_LINKS_BACKGROUND_TOP>
+<style>
+.links{
+
+background-color: rgba(0, 2255, 0, 100) !important;
+
+background-attachment: SCROLL !important;
+background-repeat: REPEAT !important;
+background-position: CENTER !important;
+
+}
+</style>
+<ADD_BORDER_NAV_LINKS>
+
+<style>
+
+
+    .links{
+
+        
+
+border: 2px dotted black !important;   
+
+        
+
+    }
+
+</style>
+<BACKGROUND_SEARCHBAR>
+
+<style>
+
+    .top input{
+
+        
+
+    background-color: rgba(0, 255, 0, 1) !important;
+
+ 
+
+    background-attachment: SCROLL !important;
+
+    background-repeat:  REPEAT !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+<BUTTONS(?)_BACKGROUND>
+
+<style>
+
+    button{
+
+        
+
+    background-color: rgba(0, 168, 0, 1) !important;
+
+  
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT !important;
+
+    background-position: CENTER  !important;
+
+          }
+
+</style>
+
+<ADD_BORDER_NAME>
+
+<style>
+
+    h1{
+
+
+border: 3px solid green !important;       
+
+        
+
+    }
+
+</style>
+<BACKGROUND_GENERAL/ABOUT>
+
+<style>
+
+    .general-about{
+
+        
+
+    background-color: rgba(0,255,0, 1) !important;
+
+   
+
+    background-attachment:  SCROLL !important;
+
+    background-repeat:  REPEAT !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+<ADD_BORDERS_GENERAL/ABOUT>
+
+<style>
+
+    .general-about{
+
+        
+
+border: 2px dotted black !important;   
+
+        
+
+    }
+
+</style>
+
+<BACKGROUND_MOOD>
+
+<style>
+
+    .mood{
+
+        
+
+    background-color: green !important;
+
+    
+
+    background-attachment:  SCROLL !important;
+
+    background-repeat:  REPEAT !important;
+
+    background-position: CENTER !important;
+
+    }
+
+</style>
+
+<ADD_BORDERS_MOOD>
+
+<style>
+
+.mood {
+
+border: 2px dotted black
+
+</style>
+
+<BACKGROUND_CONTACT>
+
+<style>
+
+    .contact{
+
+        
+
+    background-color: rgba(0, 0, 0, 1) !important;
+
+   
+
+    background-attachment: SCROLL  !important;
+
+    background-repeat:  REPEAT !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+
+<BACKGROUND_CONTACT_HEADER>
+
+<style>
+
+    footer{
+
+        
+
+    background-color: #00ff00 !important;
+
+   
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+
+<INTERESTS_LINKS_TABLE>
+
+<style>
+
+    table.details-table{
+
+        
+
+    background-color: rgba(0, 0, 0, 1) !important;
+
+    
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+    .profile .details-table td{
+
+        
+
+    background-color: rgba (0, 0, 0, 1) !important;
+
+  
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+
+<INTEREST_LINKS_HEADING>
+
+<style>
+
+    .table-section .heading{
+
+        
+
+    background-color: rgba(0, 153, 0, 1) !important;
+
+    
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+    
+
+    }
+
+</style>
+
+
+<ADD_BORDER_INTERESTS_LINKS>
+
+<style>
+
+    table.details-table{
+
+        
+
+border: 2px dotted black !important;   
+
+        
+
+    }
+
+    .profile .details-table td{
+
+
+border: 2px dotted black !important;   
+
+
+    }
+
+</style>
+
+
+<BACKGROUND_BLOG>
+
+<style>
+
+    .blog-preview{
+
+        
+
+    background-color: black !important;
+
+    
+
+    background-attachment:  SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+
+
+<BLOG_HEADING>
+
+<style>
+
+    .blog-preview h4{
+
+        
+
+    background-color: green !important;
+
+    
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important
+
+
+    }
+
+</style>
+<BLURB_HEADING>
+
+<style>
+
+    .blurbs .heading{
+
+        
+
+    background-color: rgb(0, 225, 0) !important;
+
+    
+
+    Background-attachment:  SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+
+    }
+
+</style>
+<BACKGROUND_ABOUTME>
+
+<style>
+
+    .blurbs{
+
+    
+
+    color: green !important;
+
+    background-color: black !important;
+
+    
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+<BACKGROUND_FRIENDS>
+
+<style>
+
+    .friends{
+
+        
+
+    background-color: black !important;
+
+   
+
+    background-attachment: FIXED !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+<FRIENDS_HEADINGS>
+
+<style>
+
+    .friends .heading{
+
+        
+
+    background-color: green !important;
+
+    
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+
+    }
+
+</style>
+<BACKGROUND_COMMENTS>
+
+<style>
+
+    .comments-table td{
+
+        
+
+    background-color: black !important;
+
+   
+
+    background-attachment: SCROLL !important;
+
+    background-repeat: REPEAT  !important;
+
+    background-position: CENTER !important;
+
+        
+
+    }
+
+</style>
+
+<CHANGE_LINK_COLOR>
+
+<style>
+
+    a{
+
+        
+
+    color: rgb(0, 225, 0) !important;
+
+        
+
+    }
+
+    a:hover{
+
+        
+
+    color: rgb(0, 203, 190) !important;
+        
+
+    }
+
+    a:visited{
+
+        
+
+    color: rga(0, 225, 0 ) !important;
+
+        
+
+    }
+
+    .top a{
+
+
+    color: rgba(0, 153, 0) !important;
+
+
+    }
+
+    .top a:hover{
+
+
+    color: rgb(0, 90, 153) !important;
+
+
+    }
+
+    .top a:visited{
+
+
+    color: rgba(0, 0, 0) !important;
+
+  }
+
+    .links a{
+
+    
+
+    color: rgba(0, 153, 0) !important;
+
+    
+
+    }
+
+    .links a:hover{
+
+
+    color: rgba(0, 0, 153) !important;
+
+    }
+
+    .links a:visited{
+
+
+    color: rgba(0, 0, 0,) !important;
+
+
+   }
+
+    .friends-grid p{
+
+        
+
+    color: rgba(0, 203, 190) !important;
+
+        
+
+    }
+
+    footer .links a{
+
+
+    color: rgba(0, 153, 0) !important;
+
+
+   }
+
+    footer .links a:hover{
+
+
+    color: rgba(0, 0, 153) !important;
+
+
+   }
+
+    footer .links a:visited{
+
+
+    color: rgba(0, 0, 0) !important;
+
+
+   }
+
+</style>
+
+<style>
+:root {
+
+        --logo-blue: #00ff00;
+
+        --darker-blue: #00ff00;
+
+        --lighter-blue: #00d9b9;
+
+        --even-lighter-blue: #00000;
+
+        --lightest-blue: #00d9b9;
+
+        --dark-orange: #009ecf;
+
+        --light-orange: #009600;
+
+        --even-lighter-orange: #009600;
+
+        --green: #009600;
+
+    }
+
+</style>
+<style>
+p{ color: white;} 
+
+ 
+h1, .count, .friends a p {
+     color: #00d6d7;
+} 
+</style>
+<style>
+.online { visibility: hidden; } .online img { content: url("https://dl.glitter-graphics.com/pub/258/258223xrefyj5mf2.gif"); animation-name: none; visibility: visible; height: 43px;  }
+</style>
+<style>
+.contact .inner a img {
+
+    font-size: 0;
+
+}
+
+.contact .inner a img:before {
+
+    font-size: 1em;
+
+    display: block
+
+}
+
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(1) a:before {
+
+	/* Add to Friends */
+
+	content: ":D"
+
+}
+
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(2) a:before {
+
+	/* Add to Favorites */
+
+	content: ":)"
+
+}
+
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(1) a:before {
+
+	/* Send Message */
+
+	content: ";P"
+
+}
+
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(2) a:before {
+
+	/* Forward to Friend */
+
+	content: ":O"
+
+}
+
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(1) a:before {
+
+	/* Instant Message */
+
+	content: ":3"
+
+}
+
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(2) a:before {
+
+	/* Block User */
+
+	content: ":("
+
+}
+
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(1) a:before {
+
+	/* Add to Group */
+
+	content: "XD"
+
+}
+
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(2) a:before {
+
+	/* Report Profile */
+
+	content: ">:("
+
+}
+</style>
+
+
+<iframe width="0" height="0" src="https://youtu.be/P4MiC67seUY?si=rCc51f18RnaABPWX?autoplay=1&loop=1&playlist=rCc51f18RnaABPWX" title="sorry youre not a winner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=" loading=" data-ruffle-polyfilled="">
+
+</iframe>
