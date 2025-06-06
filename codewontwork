@@ -28,7 +28,7 @@ font-family: 'im fell french canon', sans-serif;
 font-size: 190%;
 </style>
 
-<BACKGROUND_MAIN>
+<!--BACKGROUND_MAIN-->
 <style>
 body{
 
@@ -41,7 +41,7 @@ background-position: CENTER !important;
 }
 </style>
 
-<BACKGROUND_PROFILE>
+<!--BACKGROUND_PROFILE-->
 <style>
 main{
 
@@ -54,7 +54,7 @@ background-position: CENTER !important;
 }
 </style>
 
-<BACKGROUND_TOP>
+<!--BACKGROUND_TOP-->
 <style>
 .top{
 
@@ -65,7 +65,7 @@ background-repeat: REPEAT !important;
 background-position: CENTER !important;
 }
 </style>
-<NAV_LINKS_BACKGROUND_TOP>
+<!--NAV_LINKS_BACKGROUND_TOP-->
 <style>
 .links{
 
@@ -77,7 +77,7 @@ background-position: CENTER !important;
 
 }
 </style>
-<ADD_BORDER_NAV_LINKS>
+<!--ADD_BORDER_NAV_LINKS-->
 
 <style>
 
@@ -93,7 +93,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BACKGROUND_SEARCHBAR>
+<!--BACKGROUND_SEARCHBAR-->
 
 <style>
 
@@ -116,7 +116,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BUTTONS(?)_BACKGROUND>
+<!--BUTTONS(?)_BACKGROUND-->
 
 <style>
 
@@ -138,7 +138,7 @@ border: 2px dotted black !important;
 
 </style>
 
-<ADD_BORDER_NAME>
+<!--ADD_BORDER_NAME-->
 
 <style>
 
@@ -152,7 +152,7 @@ border: 3px solid green !important;
     }
 
 </style>
-<BACKGROUND_GENERAL/ABOUT>
+<!--BACKGROUND_GENERAL/ABOUT-->
 
 <style>
 
@@ -175,7 +175,7 @@ border: 3px solid green !important;
     }
 
 </style>
-<ADD_BORDERS_GENERAL/ABOUT>
+<!--ADD_BORDERS_GENERAL/ABOUT-->
 
 <style>
 
@@ -191,7 +191,7 @@ border: 2px dotted black !important;
 
 </style>
 
-<BACKGROUND_MOOD>
+<!--BACKGROUND_MOOD-->
 
 <style>
 
@@ -213,7 +213,7 @@ border: 2px dotted black !important;
 
 </style>
 
-<ADD_BORDERS_MOOD>
+<!--ADD_BORDERS_MOOD-->
 
 <style>
 
@@ -223,7 +223,7 @@ border: 2px dotted black
 
 </style>
 
-<BACKGROUND_CONTACT>
+<!--BACKGROUND_CONTACT-->
 
 <style>
 
@@ -247,7 +247,7 @@ border: 2px dotted black
 
 </style>
 
-<BACKGROUND_CONTACT_HEADER>
+<!--BACKGROUND_CONTACT_HEADER-->
 
 <style>
 
@@ -270,7 +270,7 @@ border: 2px dotted black
 
 </style>
 
-<INTERESTS_LINKS_TABLE>
+<!--INTERESTS_LINKS_TABLE-->
 
 <style>
 
@@ -312,7 +312,7 @@ border: 2px dotted black
 
 </style>
 
-<INTEREST_LINKS_HEADING>
+<!--INTEREST_LINKS_HEADING-->
 
 <style>
 
@@ -335,7 +335,7 @@ border: 2px dotted black
 </style>
 
 
-<ADD_BORDER_INTERESTS_LINKS>
+<!--ADD_BORDER_INTERESTS_LINKS-->
 
 <style>
 
@@ -360,7 +360,7 @@ border: 2px dotted black !important;
 </style>
 
 
-<BACKGROUND_BLOG>
+<!--BACKGROUND_BLOG-->
 
 <style>
 
@@ -385,7 +385,7 @@ border: 2px dotted black !important;
 </style>
 
 
-<BLOG_HEADING>
+<!--BLOG_HEADING-->
 
 <style>
 
@@ -405,7 +405,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BLURB_HEADING>
+<!--BLURB_HEADING-->
 
 <style>
 
@@ -427,7 +427,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BACKGROUND_ABOUTME>
+<!--BACKGROUND_ABOUTME-->
 
 <style>
 
@@ -452,7 +452,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BACKGROUND_FRIENDS>
+<!--BACKGROUND_FRIENDS-->
 
 <style>
 
@@ -475,7 +475,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<FRIENDS_HEADINGS>
+<!--FRIENDS_HEADINGS-->
 
 <style>
 
@@ -497,7 +497,7 @@ border: 2px dotted black !important;
     }
 
 </style>
-<BACKGROUND_COMMENTS>
+<!--BACKGROUND_COMMENTS-->
 
 <style>
 
@@ -521,7 +521,7 @@ border: 2px dotted black !important;
 
 </style>
 
-<CHANGE_LINK_COLOR>
+<!--CHANGE_LINK_COLOR-->
 
 <style>
 
