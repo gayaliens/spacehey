@@ -1,31 +1,15 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon:ital@0;1&display=swap" rel="stylesheet">
-</head>
+<style>* {cursor: url(https://cur.cursors-4u.net/smilies/smi-3/smi202.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2010/11/03/nyu-anime-smiley.html" target="_blank" title="Nyu Anime Smiley"><img src="https://cur.cursors-4u.net/cursor.png" alt="Nyu Anime Smiley" style="position:absolute; top: 0px; right: 0px;"/></a>
 
-<style>
-.im-fell-french-canon-regular {
-  font-family: "IM Fell French Canon", serif;
-  font-weight: 400;
-  font-style: normal;
-}
+<style> 
 
-.im-fell-french-canon-regular-italic {
-  font-family: "IM Fell French Canon", serif;
-  font-weight: 400;
-  font-style: italic;
-}
-</style>
-<style>
+body { 
 
-p{
-font-family: 'IM fell french Canon', sans-serif;
-font-size: 130%;
+font-family: Luminari, Comic sans MS, sans-serif;
+font-size: 12pt;
+font-weight: bold;
+font-style: normal;
+text-decoration: none;
 }
-h1,h2,h3,h4,h5{
-font-family: 'im fell french canon', sans-serif;
-font-size: 190%;
 </style>
 
 <!--BACKGROUND_MAIN-->
@@ -320,7 +304,7 @@ border: 2px dotted black
 
         
 
-    background-color: rgba(0, 153, 0, 1) !important;
+    background-color: green !important;
 
     
 
@@ -529,7 +513,7 @@ border: 2px dotted black !important;
 
         
 
-    color: rgb(0, 225, 0) !important;
+    color: rgb(0, 79, 176) !important;
 
         
 
@@ -581,7 +565,7 @@ border: 2px dotted black !important;
 
     
 
-    color: rgba(0, 153, 0) !important;
+    color: rgb(0, 79, 176) !important;
 
     
 
@@ -671,7 +655,7 @@ h1, .count, .friends a p {
 } 
 </style>
 <style>
-.online { visibility: hidden; } .online img { content: url("https://dl.glitter-graphics.com/pub/258/258223xrefyj5mf2.gif"); animation-name: none; visibility: visible; height: 43px;  }
+.online { visibility: hidden; } .online img { content: url("https://dl.glitter-graphics.com/pub/258/258223xrefyj5mf2.gif"); animation-name: none; visibility: visible; height: 30px;   }
 </style>
 <style>
 .contact .inner a img {
@@ -753,7 +737,128 @@ h1, .count, .friends a p {
 }
 </style>
 
+<style>
+body:before {
+content: " ";
+height: 100vh;
+width: 100vw;
+display: block;
+position: fixed; 
+top: 0; 
+left: 0; 
+z-index: 100;
+background-image: url('https://media1.tenor.com/m/JZngXrqcFjcAAAAC/xbox-xbox-360.gif');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+animation: yourAnimation 5s ease 0s 1 normal forwards;
+pointer-events: none;}
+@keyframes yourAnimation { 0.0%{ opacity: 1;} 75%{ opacity: 1; } 100%{ opacity: 0;} } 
+</style>
 
-<iframe width="0" height="0" src="https://youtu.be/P4MiC67seUY?si=rCc51f18RnaABPWX?autoplay=1&loop=1&playlist=rCc51f18RnaABPWX" title="sorry youre not a winner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=" loading=" data-ruffle-polyfilled="">
+<!-- (c) Layout created by Boogley (https://layouts.spacehey.com/layout?id=18321) -->
+
+<style>
+/*hidden on mobile */
+.image {
+    background: url('https://file.garden/Zl0NtAzAvyz0wM5S/Pooky_animation_2.webp') no-repeat;
+    background-size: 100%!important;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    height: 200px;
+    width: 187.5px;
+    z-index: 1000;
+    opacity: 1;
+}
+@media (max-width: 600px) {
+.image{display:none;}
+}
+</style>
+<div class="image"></div>
+
+<!-- (c) Layout created by Valentine (https://layouts.spacehey.com/layout?id=29048) -->
+
+<style>
+/* replace with cd image that has transparent background. must be 150px by 150px. */
+:root {
+--cd-image: url('https://fluorescent-lights.neocities.org/Digital-CD-Disk-Vector-Transparent-PNG.png');
+}
+.profile-pic {
+position: relative;
+width: 183px;
+filter: drop-shadow(0 0 0.25rem gray);
+}
+.profile-pic:after {
+content: "";
+background: url('https://fluorescent-lights.neocities.org/f0rzNHe.png'), linear-gradient(150deg, rgba(255,255,255,0.4), rgba(255,255,255,0.2), 40%, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.6));
+background-size: contain, cover;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.profile-pic:before {
+content: "";
+background: var(--cd-image);
+position: absolute;
+top: 5px;
+left: -20px;
+width: 150px;
+height: 150px;
+background-repeat: no-repeat;
+z-index: -1;
+animation-name: spin;
+animation-duration: 5000ms;
+animation-iteration-count: infinite;
+animation-timing-function: linear; 
+transition: left ease 0.5s;
+}
+.profile-pic:hover:before {
+left: -75px;
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+.profile-pic .pfp-fallback {
+float: right;
+width: 163px;
+height: 160px;
+border: none;
+}
+.general-about .profile-pic img {
+max-width: inherit;
+}
+</style>
+
+
+<div class="snowflakes">
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div> 
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+<div class="snowflake"><img src="https://media.tenor.com/l3y6Z5VX0g4AAAAi/can-mountain-dew.gif" width="56" height="80"/></div>
+</div>
+
+<style>
+    @-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%,100%{-webkit-transform:translateX(0);transform:translateX(0)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%,100%{transform:translateX(0)}50%{transform:translateX(80px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}.snowflake:nth-of-type(10){left:25%;-webkit-animation-delay:2s,0s;animation-delay:2s,0s}.snowflake:nth-of-type(11){left:65%;-webkit-animation-delay:4s,2.5s;animation-delay:4s,2.5s}
+
+
+
+</style>
+
+<!-- (c) Layout created by poop (https://layouts.spacehey.com/layout?id=104937) -->
+
+<iframe width="0" height="0" src="https://www.youtube.com/embed/1cZAb419tdQ//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
 
 </iframe>
